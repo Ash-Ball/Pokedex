@@ -1,0 +1,9 @@
+
+> pokedex@1.0.0 dev
+> npx tsc && node dist/main.js
+
+Pokedex > https://pokeapi.co/api/v2/pokemon/squirtle in cache: false
+Not in cache - getting from server
+Throwing a Pokeball at squirtle...
+squirtle was caught!
+Pokedex > Closing the Pokedex... Goodbye!
